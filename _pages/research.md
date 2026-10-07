@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-My research focuses on open, intelligent and sustainable wireless communication systems. I am particularly interested in developing intelligent networking and resource-management solutions and translating them into practical wireless systems through experimental validation and collaboration with academic and industry partners.
+My research focuses on **open, intelligent and sustainable wireless communication systems**. I am particularly interested in developing intelligent networking and resource-management solutions, and in exploring how these solutions can be evaluated and applied in practical wireless systems through experimental validation and collaboration with academic and industry partners.
 
 ## Open & Intelligent RAN
 

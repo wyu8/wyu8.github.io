@@ -2,10 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected funded research projects in wireless communications and networking.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
 horizontal: false
 ---
 
